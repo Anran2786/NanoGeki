@@ -1,2 +1,2 @@
 # NanoGeki
-A mini controller for O.N.G.E.K.I.
+先画个饼，资料整理好再上载
